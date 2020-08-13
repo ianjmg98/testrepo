@@ -1,0 +1,47 @@
+bimbo ventures invirtió en ellos
+
+Plataforma de inteligencia para prevenir delitos 
+Enfocado en prevención 
+Ley del concentración del delito: el delito se concentra en patrones geograficos, victimización y temporales muy agudos. 
+
+Checar si el x% de tiendas de oxxo (numero chico) representa x% de crimenes (numero grande) 
+Desarrollo modelos que pueden predecir que va a suceder un delito 
+
+Plataforma es enteramente in-house 
+El equipo de FEMSA está interesado en tener un piloto con ellos
+Checar una empresa que se llama RiskAdvisory
+
+En el caso de Bimbo (de sus clientes principales) se trata de optimizar las rutas de entrega 
+Te muestra  a nivel granular donde estan sucediendo estos incidentes y que tipo de incidente es
+
+Trabajan con BP 
+Hay gasolineras que tienen indices de riesgo muy altos (ellos calculan) y no tiene guardias asi como vice versa
+Reducieron sus gastos en guardias en un 35%
+
+
+De punto A a punto B, te genera rutas posibles e indices de riesgo. Se adapta a la hora del dia y el dia de la semana 
+También lo hacen para seguridad vial. 
+
+Habló con personas de seguridad corporativa 
+Oscar Rocha 
+Con quien mas han hablado directamente, Cesar Larraza
+
+Ya está validado, ya tienen clientes. 
+
+Enero 2019 se lanzó el beta 
+Se empezó a desarrollar en el 2018 
+
+Ahorita no están interesados en levantar dinero. 
+Quieren champions dentro de la organización, para presionar a Oscar ROcha
+
+La empresa genera network efects, mas empresas se unen, mas data
+
+Pasar esto a insurtech, no les interesa hacer su propia aseguradora 
+Dar esto de risk management y risk analytics a aseguradoras 
+
+Podrian hacer una applicación B2C que proveé estos analytics a personas
+Te pueden decir el indice de riesgo de equis atraco en el km x de x vehiculo 
+
+
+
+ 
